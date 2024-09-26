@@ -1,5 +1,5 @@
-const sub = (c, d) => {
-  return c - d;
-};
+// function sub  (c, d)  {
+//   return c - d;
+// };
 
-export { sub };
+// exports.sub = sub;
