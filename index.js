@@ -1,7 +1,8 @@
-// this is is es6 arrow function export
+const express = require('express');
 
-// const fs = require("fs");
-// const txt = fs.readFileSync("demo.txt", "utf-8");
-// console.log(txt);
+console.log("hello");
+console.log("hyyy");
 
-// console.log("hello");
+
+const server = express();
+server.listen(8080);
