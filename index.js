@@ -1,5 +1,4 @@
-const run = require("./run.js");
+import { sub } from "./run.js";
+// this is is es6 arrow function export
 
-console.log(run.sub(5, 7));
-
-let a = 5;
+console.log(sub(67, 7));
