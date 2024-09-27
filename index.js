@@ -1,8 +1,7 @@
+console.log('hello');
+
 const express = require('express');
-
-console.log("hello");
-console.log("hyyy");
-
 
 const server = express();
 server.listen(8080);
+console.log(2 + 5);
